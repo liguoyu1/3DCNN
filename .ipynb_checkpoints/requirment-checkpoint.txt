@@ -1,0 +1,10 @@
+tensorflow
+ffmpeg
+graphviz
+Keras
+scikit-learn
+scikit-image
+tensorboard
+tqdm
+torch
+matplotlib
