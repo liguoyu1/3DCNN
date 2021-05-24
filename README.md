@@ -61,3 +61,9 @@ When I got the results in [result\_cnn\_10class](https://github.com/rysmarie/Mot
 `2dcnn.py`  2DCNN model  
 `display.py` get example images from the dataset.  
 `videoto3d.py`  get frames from a video, extract a class name from filename of a video in UCF101.  
+
+## 比赛环境和运行说明
+    仅一个demo文件  3dcnn_ensemble.py
+    1. 配置运行环境 ./init.sh run
+    2. 切换到运行环境： conda env list & source activate xxxx/xxx/xx/3dcnn_keras
+    3. 运行环境： python 3dcnn_ensemble.py
