@@ -18,7 +18,6 @@ from sklearn.model_selection import train_test_split
 
 import videoto3d
 from tqdm import tqdm
-import gap_calculator
 
 
 def plot_history(history, result_dir):

@@ -1,0 +1,12 @@
+tensorflow-gpu==1.15.0
+ffmpeg
+graphviz
+Keras==2.3.1
+scikit-learn
+scikit-image
+tensorboard
+tqdm
+matplotlib
+sklearn
+threadpool
+opencv-python
